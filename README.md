@@ -6,8 +6,6 @@
 
 💞️ I’m looking to collaborate on projects related to Zoho CRM, Zoho Creator, Zoho Analytics, and automation solutions to improve business efficiencies.
 
-📫 How to reach me: You can contact me through my email testdeveloperzoho@gmail.com.
-
 😄 Pronouns: He/Him
 
 <!---
